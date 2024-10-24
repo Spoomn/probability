@@ -9,5 +9,5 @@ A linear regression calculator
 * mean $E[X], E[Y]$
 * correlation coefficient $\rho$
 * variance $\sigma^2$
-* regression coefficients ($b0,b1$)
+* regression coefficients ($b_0,b_1$)
 * linear regression predcition given x ($ŷ$)
